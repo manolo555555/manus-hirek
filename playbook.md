@@ -24,11 +24,14 @@ Ha nincs friss tartalom:
 ### 4. Fájl Mentés és Frissítés
 - Mentsd a napi tartalmat: `/home/ubuntu/manus_hirek/napi_fajlok/YYYY_MM_DD.md`
 - Frissítsd a master tartalomjegyzéket
-- Készíts rövid összefoglalót email-hez
+- Frissítsd az index.html weboldalt a legújabb adatokkal
+- Git commit és push a változásokkal
 
-### 5. Email Értesítés
-- Küldd el a napi összefoglalót: pooly75@gmail.com
-- Tartalom: rövid címek + linkek a master tartalomjegyzékhez
+### 5. Git Szinkronizáció
+- `git add .` - Minden változás hozzáadása
+- `git commit -m "Napi frissítés: YYYY-MM-DD"` - Commit üzenet
+- `git push origin main` - Feltöltés GitHub-ra
+- GitHub Pages automatikusan frissül
 
 ## Kredit Limit Betartása
 - **Összesen max 300 kredit/nap**
