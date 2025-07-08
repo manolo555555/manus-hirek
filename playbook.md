@@ -1,24 +1,25 @@
 # Manus.im Hírek Gyűjtés - Playbook
 
-## Napi Feladat Folyamata (Kredit-optimalizált, max 300)
+## Napi Feladat Folyamata (Optimalizált, max 300 kredit)
 
-### 1. Hírek Keresése (Max 80 kredit)
-- Keress "manus.im" és "AI agents education" kulcsszavakra
-- Források: tech blogok, GitHub, Reddit, LinkedIn (kevesebb párhuzamos keresés)
-- **Cél**: 4-6 releváns cikk/hír találása
-- **Optimalizálás**: Gyorsabb szűrés, kevesebb forrás
+### 1. Hírek Keresése (Max 100 kredit)
+- Keress "manus.im", "AI agents education", "automated content creation" kulcsszavakra
+- Források: tech blogok, GitHub, Reddit, LinkedIn, Forbes
+- **Cél**: 8-12 potenciális cikk/hír találása
+- **Optimalizálás**: Több forrás, alaposabb keresés
 
-### 2. Tartalom Feldolgozás (Max 150 kredit)
-- **Főoldal összefoglalók**: 1 mondat/cikk (30 kredit)
-- **Aloldal részletes**: Strukturált, A4-es terjedelem (120 kredit)
-- Kategorizáld: Hírek, Tanulási Automatizáció, Üzleti Ötletek, Technikai
-- **Számlálás**: Külön számláló minden kategóriához
+### 2. Tartalom Kiválasztás és Feldolgozás (Max 180 kredit)
+- **Kiválasztás**: 1-1 legjobb cikk kategóriánként (relevancia + frissesség)
+- **Főoldal összefoglalók**: 3 mondat/cikk (20 kredit)
+- **Aloldal A4-es részletes**: Folyamatos szöveg, bekezdések (160 kredit)
+- **Kategóriák**: Hírek, Tanulási Automatizáció, Üzleti Ötletek, Technikai
+- **Formátum**: Felsorolások helyett folyó szöveg, olvasmányos stílus
 
-### 3. Ötletgenerálás (Max 40 kredit, csak üres napokon)
+### 3. Ötletgenerálás (Max 20 kredit, csak üres napokon)
 Ha nincs elég friss tartalom:
-- Generálj 1-2 rövid ötletet tanulási automatizációról
-- Fókusz: magyar piac, vállalati alkalmazottak, hobbisták
-- **Rövidebb**: Célzott, tömör megfogalmazás
+- Generálj 1 rövid ötletet tanulási automatizációról
+- Fókusz: magyar piac, vállalati alkalmazottak
+- **Tömör**: Célzott, hatékony megfogalmazás
 
 ### 4. Weboldal Generálás (Max 30 kredit)
 - **Főoldal frissítés**: Kategóriánkénti számlálók, napi blokk hozzáadása
