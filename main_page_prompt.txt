@@ -1,0 +1,8 @@
+Frissítsd a főoldalt (/home/ubuntu/manus_hirek/index.html) a mai nappal:
+
+1. Adj hozzá egy új napi blokkot a tetejére: 2025. July 09.
+2. Válaszd ki 1-1 legjobb cikket kategóriánként (relevancia + frissesség)
+3. Írj 3 mondatos összefoglalót minden cikkhez
+4. Linkeld az aloldalra: napi/2025_07_09_optimized.html
+
+Kategóriák: Hírek, Tanulás, Üzleti ötlet, Technika

@@ -1,0 +1,30 @@
+[2025-07-09 15:51:15] === AGENT MONITOR INDÍTÁS ===
+[2025-07-09 15:51:15] Trigger fájl figyelése: /home/ubuntu/manus_hirek/TRIGGER_DAILY_NEWS
+[2025-07-09 15:51:15] Ellenőrzési intervallum: 60 másodperc
+[2025-07-09 15:51:15] Trigger fájl észlelve!
+[2025-07-09 15:51:15] === NAPI HÍREK FELADAT VÉGREHAJTÁS KEZDÉS ===
+[2025-07-09 15:51:15] Trigger dátum: 2025_07_09
+[2025-07-09 15:51:15] Magyar dátum: 2025. July 09.
+[2025-07-09 15:51:15] 1. Hírek keresése szimulálva...
+[2025-07-09 15:51:17] 2. Tartalom feldolgozás szimulálva...
+[2025-07-09 15:51:19] 3. Fájlok generálása szimulálva...
+[2025-07-09 15:51:21] 4. Git commit és push szimulálva...
+[2025-07-09 15:51:22] === NAPI HÍREK FELADAT VÉGREHAJTÁS BEFEJEZÉS ===
+[2025-07-09 15:51:22] Trigger fájl törölve
+[2025-07-09 15:51:22] Feladat sikeresen végrehajtva
+[2025-07-09 15:57:03] === AGENT MONITOR INDÍTÁS (VALÓDI MANUS FUNKCIÓK) ===
+[2025-07-09 15:57:03] Trigger fájl figyelése: /home/ubuntu/manus_hirek/TRIGGER_DAILY_NEWS
+[2025-07-09 15:57:03] Ellenőrzési intervallum: 60 másodperc
+[2025-07-09 15:57:03] Trigger fájl észlelve!
+[2025-07-09 15:57:03] === NAPI HÍREK FELADAT VÉGREHAJTÁS KEZDÉS ===
+[2025-07-09 15:57:03] Trigger dátum: 2025_07_09
+[2025-07-09 15:57:03] Magyar dátum: 2025. July 09.
+[2025-07-09 15:57:03] 1. Hírek keresése indítása...
+[2025-07-09 15:57:03] Keresési prompt létrehozva
+[2025-07-09 15:57:03] 2. Tartalom feldolgozás indítása...
+[2025-07-09 15:57:03] Feldolgozási prompt-ok létrehozva
+[2025-07-09 15:57:03] 3. Üzleti ötletek generálása...
+[2025-07-09 15:57:03] Üzleti ötlet prompt létrehozva
+[2025-07-09 15:57:03] Manus végrehajtási script generálása...
+[2025-07-09 15:57:03] Manus script létrehozva: /home/ubuntu/manus_hirek/manus_execution_2025_07_09.sh
+[2025-07-09 15:57:03] 4. Git műveletek indítása...

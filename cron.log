@@ -7,3 +7,12 @@ Already up to date.
 [2025-07-09 21:30:27] Manus hírek gyűjtés indítása...
 [2025-07-09 21:30:27] Manus prompt végrehajtása...
 [2025-07-09 21:30:27] Git commit és push...
+[main b65925e] Napi hírek automatikus gyűjtés - 2025. July 09.
+ 3 files changed, 93 insertions(+)
+ create mode 100644 cron.log
+ create mode 100755 daily_news_cron.sh
+ create mode 100644 daily_prompt_2025_07_09.txt
+To https://github.com/manolo555555/manus-hirek.git
+   4e5b739..b65925e  main -> main
+[2025-07-09 21:30:28] === NAPI HÍREK GYŰJTÉS BEFEJEZÉS ===
+[2025-07-09 21:30:28] Következő futtatás: holnap 8:00 magyar idő

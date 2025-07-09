@@ -1,0 +1,9 @@
+Hozz létre részletes aloldalt: /home/ubuntu/manus_hirek/napi/2025_07_09_optimized.html
+
+1. Használd a meglévő template-et (2025_07_08_optimized.html alapján)
+2. Minden kategóriában 1-1 cikk A4-es részletességgel
+3. Folyamatos szöveg bekezdésekben (NO bullet pontok!)
+4. Tartalom: 800-1200 szó/cikk
+5. Magyar piaci fókusz az üzleti ötleteknél
+
+Formátum: Olvasmányos, strukturált, professzionális
