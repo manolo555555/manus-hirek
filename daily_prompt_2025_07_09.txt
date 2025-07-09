@@ -1,0 +1,15 @@
+Gyűjts friss híreket a manus.im-el kapcsolatban és készíts automatizált tananyag ötleteket a mai napra (2025. July 09.). Kövesd pontosan a /home/ubuntu/manus_hirek/playbook.md útmutatót:
+
+1. Keress angol nyelvű forrásokban: manus.im, AI agents education, automated content creation
+2. Válaszd ki 1-1 legjobb cikket kategóriánként (relevancia + frissesség alapján)
+3. Készíts A4-es részletes összefoglalókat folyamatos szöveggel
+4. Generálj magyar piaci üzleti ötleteket ha szükséges
+5. Frissítsd a főoldalt és hozz létre új aloldalt: napi/2025_07_09_optimized.html
+6. Commit-old és push-old a változásokat GitHub-ra
+7. Tartsd be a 300 kredites limitet
+
+Fájlstruktúra:
+- Főoldal: /home/ubuntu/manus_hirek/index.html
+- Új aloldal: /home/ubuntu/manus_hirek/napi/2025_07_09_optimized.html
+- Napi MD: /home/ubuntu/manus_hirek/napi_fajlok/2025_07_09.md
+- Master index: /home/ubuntu/manus_hirek/master_tartalomjegyzek.md
