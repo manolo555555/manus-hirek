@@ -1,1 +1,1 @@
-Napi hírek feladat végrehajtva\nDátum: 2025. July 09.\nVégrehajtás ideje: 2025-07-09 15:51:22.155119\nStatus: SIKERES (SZIMULÁLT)\n
+Napi hírek feladat végrehajtva\nDátum: 2025. July 09.\nVégrehajtás ideje: 2025-07-09 15:57:03.758049\nStatus: SIKERES (VALÓDI MANUS FUNKCIÓK)\nGenerált fájlok:\n- Keresési prompt: search_prompt.txt\n- Főoldal prompt: main_page_prompt.txt\n- Aloldal prompt: detail_page_prompt.txt\n- Üzleti prompt: business_prompt.txt\n- Manus script: /home/ubuntu/manus_hirek/manus_execution_2025_07_09.sh\n

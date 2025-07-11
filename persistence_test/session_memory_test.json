@@ -1,0 +1,49 @@
+{
+  "persistence_test": {
+    "test_id": "session_001",
+    "created_timestamp": "2025-07-09T21:12:00Z",
+    "created_by": "Manus AI Agent",
+    "test_purpose": "Sessionek közötti fájl perzisztencia tesztelése",
+    "test_data": {
+      "simple_string": "Ez egy egyszerű szöveg teszt",
+      "number": 42,
+      "array": ["elem1", "elem2", "elem3"],
+      "nested_object": {
+        "key1": "value1",
+        "key2": "value2"
+      }
+    },
+    "memory_simulation": {
+      "processed_articles": [
+        {
+          "id": "test_article_001",
+          "title": "Teszt Cikk - Manus Perzisztencia",
+          "date": "2025-07-09",
+          "category": "teszt",
+          "keywords": ["manus", "perzisztencia", "memória"],
+          "quality_score": 9.5
+        }
+      ],
+      "active_ideas": [
+        {
+          "id": "test_idea_001",
+          "concept": "Belső memória rendszer Manus-ban",
+          "stage": 1,
+          "next_development": "Perzisztencia teszt eredmények alapján"
+        }
+      ],
+      "trends": {
+        "manus_capabilities": {
+          "momentum": "testing",
+          "last_update": "2025-07-09"
+        }
+      }
+    },
+    "session_notes": [
+      "Session 1: Perzisztencia teszt létrehozása",
+      "Következő session: Fájl olvasás és memória betöltés teszt",
+      "Cél: Belső memória rendszer megvalósíthatóságának igazolása"
+    ]
+  }
+}
+
