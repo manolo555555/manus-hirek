@@ -1,0 +1,81 @@
+{
+  "memory_system": {
+    "version": "1.0",
+    "created": "2025-07-11",
+    "last_updated": "2025-07-11",
+    "total_sessions": 0,
+    "total_articles": 0,
+    "total_ideas": 0,
+    "status": "initialized"
+  },
+  "processed_articles": {
+    "articles": [],
+    "categories": {
+      "hírek": 0,
+      "tanulás": 0,
+      "üzlet": 0,
+      "technika": 0
+    },
+    "sources": {},
+    "keywords_index": {},
+    "quality_stats": {
+      "average_score": 0,
+      "high_quality_count": 0,
+      "total_processed": 0
+    }
+  },
+  "active_ideas": {
+    "ideas": [],
+    "development_stages": {
+      "stage_1": 0,
+      "stage_2": 0,
+      "stage_3": 0,
+      "completed": 0
+    },
+    "priority_queue": [],
+    "evolution_tracking": {}
+  },
+  "trends_analysis": {
+    "current_trends": {},
+    "momentum_tracking": {},
+    "topic_evolution": {},
+    "market_signals": {},
+    "prediction_accuracy": {}
+  },
+  "user_preferences": {
+    "preferred_categories": ["üzlet", "tanulás", "magyar_piac"],
+    "content_depth": "A4_detailed",
+    "focus_areas": ["automatizáció", "oktatás", "AI_agents"],
+    "avoid_topics": [],
+    "quality_threshold": 7.0,
+    "max_daily_articles": 6,
+    "max_daily_ideas": 2
+  },
+  "session_context": {
+    "last_session_date": null,
+    "last_session_summary": "",
+    "pending_developments": [],
+    "next_session_priorities": [],
+    "continuity_notes": []
+  },
+  "duplicate_prevention": {
+    "processed_titles": [],
+    "processed_urls": [],
+    "similar_concepts": [],
+    "keyword_combinations": []
+  },
+  "quality_control": {
+    "validation_rules": [
+      "minimum_relevance_score: 7.0",
+      "maximum_duplicate_similarity: 0.3",
+      "required_source_credibility: medium",
+      "content_freshness_days: 7"
+    ],
+    "feedback_loop": {
+      "successful_patterns": [],
+      "failed_patterns": [],
+      "optimization_notes": []
+    }
+  }
+}
+
